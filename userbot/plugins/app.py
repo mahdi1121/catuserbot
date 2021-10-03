@@ -64,7 +64,7 @@ async def app_search(event):
         app_details = "<a href='" + app_icon + "'>📲&#8203;</a>"
         app_details += " <b>" + app_name + "</b>"
         app_details += (
-            "\n\n<code>Developer :</code> <a href='"
+            "\n\n<code>Developers :</code> <a href='"
             + app_dev_link
             + "'>"
             + app_dev
